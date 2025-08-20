@@ -3,9 +3,30 @@
         <title>我的全新 Hugo 网站</title>
         <link>http://example.org/</link>
         <description>我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 20 Aug 2025 18:09:09 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 20 Aug 2025 18:29:35 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Forth_post</title>
+    <link>http://example.org/posts/forth_post/</link>
+    <pubDate>Wed, 20 Aug 2025 18:29:35 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>http://example.org/posts/forth_post/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Third_post</title>
+    <link>http://example.org/posts/third_post/</link>
+    <pubDate>Wed, 20 Aug 2025 18:24:05 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>http://example.org/posts/third_post/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Second_post</title>
+    <link>http://example.org/posts/second_post/</link>
+    <pubDate>Wed, 20 Aug 2025 18:09:09 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>http://example.org/posts/second_post/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>First_post</title>
     <link>http://example.org/posts/first_post/</link>
     <pubDate>Wed, 20 Aug 2025 00:43:52 &#43;0800</pubDate><author>

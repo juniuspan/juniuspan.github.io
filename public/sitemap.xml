@@ -2,8 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/</loc><lastmod>2025-08-20T18:09:09&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2025-08-20T18:09:09&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/forth_post/</loc><lastmod>2025-08-20T18:29:35&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2025-08-20T18:29:35&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2025-08-20T18:29:35&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/third_post/</loc><lastmod>2025-08-20T18:24:05&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/second_post/</loc><lastmod>2025-08-20T18:09:09&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/first_post/</loc><lastmod>2025-08-20T00:43:52&#43;08:00</lastmod></url><url>
             <loc>http://example.org/categories/</loc></url><url>
             <loc>http://example.org/tags/</loc></url></urlset>
